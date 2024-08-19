@@ -14,7 +14,7 @@ Beginner FullStack Developer
                     </p>
                     
 
-![Codeium Profile Card](https://codeium.com/profile/mishaxzx/card.png)
+<!-- ![Codeium Profile Card](https://codeium.com/profile/mishaxzx/card.png) -->
 
 <!--
 **Mishazx/mishazx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
