@@ -16,7 +16,7 @@ Beginner FullStack Developer
 ## 📊 GitHub stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishazx&layout=compact&theme=radical)  
 
-[Codeium Profile Card](https://codeium.com/profile/mishaxzx)
+[[Codeium Profile Card](https://codeium.com/profile/mishaxzx)](https://codeium.com/profile/mishaxzx/card.png)
 
 <!-- ![Codeium Profile Card](https://codeium.com/profile/mishaxzx/card.png) -->
 
