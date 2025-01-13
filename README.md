@@ -14,10 +14,10 @@ Beginner FullStack Developer
                     </p>
 
 ## 📊 GitHub stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishazx&layout=donut&theme=radical&langs_count=12)  
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishazx&layout=donut&theme=radical&langs_count=12)  -->
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mishazx)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mishazx)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mishazx) -->
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mishazx)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [[Codeium Profile Card](https://codeium.com/profile/mishaxzx)](https://codeium.com/profile/mishaxzx/card.png) -->
 
